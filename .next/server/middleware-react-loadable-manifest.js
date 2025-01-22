@@ -1,1 +1,0 @@
-self.__REACT_LOADABLE_MANIFEST={"index.js -> ../src/components/Testimonials":{"id":"index.js -> ../src/components/Testimonials","files":["static/chunks/src_components_Testimonials_js.js"]}}
